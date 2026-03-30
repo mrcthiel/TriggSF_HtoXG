@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+outputs_trigg/
+plots/
+*.root
+*.json
+*.log
+
+.env
+.venv
+conda-meta/

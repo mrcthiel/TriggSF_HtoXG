@@ -1,0 +1,24 @@
+name: hztest
+channels:
+  - conda-forge
+dependencies:
+  - awkward=1.7.0
+  - boost-histogram
+  - coffea=0.7.14
+  - hist
+  - matplotlib
+  - mplhep
+  - numba=0.55
+  - numpy=1.21
+  - pandas
+  - particle
+  - pyarrow=6
+  - python=3.9
+  - pyyaml
+  - scipy
+  - setuptools=59
+  - tqdm
+  - typer
+  - uproot=4.1.9
+
+prefix: "/afs/cern.ch/user/m/mthiel/.local/share/mamba/envs/hztest"
