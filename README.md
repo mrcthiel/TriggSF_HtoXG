@@ -1,4 +1,4 @@
-# TriggSF HtoXG
+g TriggSF HtoXG
 
 Trigger scale factor for **Mu17-Pho30** using NanoAOD and coffea.
 
@@ -19,7 +19,7 @@ This project uses **micromamba**.
 
 ### Create environment
 ```bash
-micromamba create -f environment_full.yml
+micromamba create -f environment.yml
 ```
 
 ### Activate

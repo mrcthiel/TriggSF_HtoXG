@@ -1,4 +1,4 @@
-name: hztest
+name: hztest2
 channels:
   - conda-forge
 dependencies:
